@@ -1,0 +1,11 @@
+Artificial Intelligence is transforming industries.
+
+Machine Learning is a subset of Artificial Intelligence.
+
+Deep Learning uses neural networks for learning patterns.
+
+Natural Language Processing helps computers understand human language.
+
+Computer Vision enables machines to interpret images and videos.
+
+Data Science combines statistics and machine learning.
